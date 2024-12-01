@@ -1,0 +1,9 @@
+langchain-gigachat
+langchain-chroma
+langchain-core
+langchain-community
+langchain
+pandas
+sentence_transformers
+aiogram
+tf-keras
